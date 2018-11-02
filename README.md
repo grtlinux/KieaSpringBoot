@@ -10,7 +10,7 @@ References
 > [Boot Spring Boot](https://github.com/ihoneymon/boot-spring-boot "Boot Spring Boot")  
 > [첫번째 스프링 부트 어플리케이션 개발하기 (레퍼런스 11장)](http://springboot.tistory.com/14 "첫번째 스프링 부트 어플리케이션 개발하기 (레퍼런스 11장)")  
 > [Spring boot 기반 REST API 제작 (1)](https://medium.com/@devAsterisk/spring-boot-%EA%B8%B0%EB%B0%98-rest-api-%EC%A0%9C%EC%9E%91-1-ecfdf9d4d41e "Spring boot 기반 REST API 제작 (1)")  
-> []( "")  
+> [(MyBatis) Spring Boot와 연계](http://araikuma.tistory.com/484?category=783432 "(MyBatis) Spring Boot와 연계")  
 > []( "")  
 > []( "")  
 > []( "")  
